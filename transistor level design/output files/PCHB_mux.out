@@ -1,0 +1,9 @@
+# L0e = x, L1e = x, SEL = xx, R = 00
+# L0e = 1, L1e = 1, SEL = xx, R = 00
+# L0e = 1, L1e = 1, SEL = 01, R = 01
+# L0e = 0, L1e = 1, SEL = 00, R = 01
+# L0e = 0, L1e = 1, SEL = 00, R = 00
+# L0e = 0, L1e = 1, SEL = 10, R = 00
+# L0e = 1, L1e = 1, SEL = 10, R = 00
+# L0e = 1, L1e = 1, SEL = 10, R = 10
+# L0e = 1, L1e = 0, SEL = 10, R = 10

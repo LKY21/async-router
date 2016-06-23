@@ -1,9 +1,0 @@
-// send A to all
-# Aout=xxxxxxxxx, Bout=xxxxxxxxx, Cout=xxxxxxxxx, Dout=xxxxxxxxx, Eout=xxxxxxxxx, Fout=xxxxxxxxx, Gout=xxxxxxxxx, Hout=xxxxxxxxx
-# Aout=xxxxxxxxx, Bout=000000000, Cout=xxxxxxxxx, Dout=xxxxxxxxx, Eout=xxxxxxxxx, Fout=xxxxxxxxx, Gout=xxxxxxxxx, Hout=xxxxxxxxx
-# Aout=xxxxxxxxx, Bout=000000000, Cout=110001111, Dout=xxxxxxxxx, Eout=xxxxxxxxx, Fout=xxxxxxxxx, Gout=xxxxxxxxx, Hout=xxxxxxxxx
-# Aout=xxxxxxxxx, Bout=000000000, Cout=110001111, Dout=110000101, Eout=xxxxxxxxx, Fout=xxxxxxxxx, Gout=xxxxxxxxx, Hout=xxxxxxxxx
-# Aout=xxxxxxxxx, Bout=000000000, Cout=110001111, Dout=110000101, Eout=000000101, Fout=xxxxxxxxx, Gout=xxxxxxxxx, Hout=xxxxxxxxx
-# Aout=xxxxxxxxx, Bout=000000000, Cout=110001111, Dout=110000101, Eout=000000101, Fout=000001111, Gout=xxxxxxxxx, Hout=xxxxxxxxx
-# Aout=xxxxxxxxx, Bout=000000000, Cout=110001111, Dout=110000101, Eout=000000101, Fout=000001111, Gout=000000101, Hout=xxxxxxxxx
-# Aout=xxxxxxxxx, Bout=000000000, Cout=110001111, Dout=110000101, Eout=000000101, Fout=000001111, Gout=000000101, Hout=000000101
