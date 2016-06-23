@@ -1,0 +1,9 @@
+//send F to all
+# Aout=xxxxxxxxx, Bout=xxxxxxxxx, Cout=xxxxxxxxx, Dout=xxxxxxxxx, Eout=xxxxxxxxx, Fout=xxxxxxxxx, Gout=xxxxxxxxx, Hout=xxxxxxxxx
+# Aout=xxxxxxxxx, Bout=xxxxxxxxx, Cout=xxxxxxxxx, Dout=xxxxxxxxx, Eout=000000000, Fout=xxxxxxxxx, Gout=xxxxxxxxx, Hout=xxxxxxxxx
+# Aout=000000000, Bout=xxxxxxxxx, Cout=xxxxxxxxx, Dout=xxxxxxxxx, Eout=000000000, Fout=xxxxxxxxx, Gout=xxxxxxxxx, Hout=xxxxxxxxx
+# Aout=000000000, Bout=xxxxxxxxx, Cout=xxxxxxxxx, Dout=xxxxxxxxx, Eout=000000000, Fout=xxxxxxxxx, Gout=000000000, Hout=xxxxxxxxx
+# Aout=000000000, Bout=000000000, Cout=xxxxxxxxx, Dout=xxxxxxxxx, Eout=000000000, Fout=xxxxxxxxx, Gout=000000000, Hout=xxxxxxxxx
+# Aout=000000000, Bout=000000000, Cout=xxxxxxxxx, Dout=xxxxxxxxx, Eout=000000000, Fout=xxxxxxxxx, Gout=000000000, Hout=000000000
+# Aout=000000000, Bout=000000000, Cout=000000000, Dout=xxxxxxxxx, Eout=000000000, Fout=xxxxxxxxx, Gout=000000000, Hout=000000000
+# Aout=000000000, Bout=000000000, Cout=000000000, Dout=000000000, Eout=000000000, Fout=xxxxxxxxx, Gout=000000000, Hout=000000000

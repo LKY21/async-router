@@ -1,0 +1,12 @@
+// all to C
+# Aout=xxxxxxxxx, Bout=xxxxxxxxx, Cout=xxxxxxxxx, Dout=xxxxxxxxx, Eout=xxxxxxxxx, Fout=xxxxxxxxx, Gout=xxxxxxxxx, Hout=xxxxxxxxx
+# Aout=xxxxxxxxx, Bout=xxxxxxxxx, Cout=000000010, Dout=xxxxxxxxx, Eout=xxxxxxxxx, Fout=xxxxxxxxx, Gout=xxxxxxxxx, Hout=xxxxxxxxx
+# Aout=xxxxxxxxx, Bout=xxxxxxxxx, Cout=110000000, Dout=xxxxxxxxx, Eout=xxxxxxxxx, Fout=xxxxxxxxx, Gout=xxxxxxxxx, Hout=xxxxxxxxx
+# Aout=xxxxxxxxx, Bout=xxxxxxxxx, Cout=110000001, Dout=xxxxxxxxx, Eout=xxxxxxxxx, Fout=xxxxxxxxx, Gout=xxxxxxxxx, Hout=xxxxxxxxx
+# Aout=xxxxxxxxx, Bout=xxxxxxxxx, Cout=000000011, Dout=xxxxxxxxx, Eout=xxxxxxxxx, Fout=xxxxxxxxx, Gout=xxxxxxxxx, Hout=xxxxxxxxx
+# Aout=xxxxxxxxx, Bout=xxxxxxxxx, Cout=000000101, Dout=xxxxxxxxx, Eout=xxxxxxxxx, Fout=xxxxxxxxx, Gout=xxxxxxxxx, Hout=xxxxxxxxx
+# Aout=xxxxxxxxx, Bout=xxxxxxxxx, Cout=000000100, Dout=xxxxxxxxx, Eout=xxxxxxxxx, Fout=xxxxxxxxx, Gout=xxxxxxxxx, Hout=xxxxxxxxx
+# Aout=xxxxxxxxx, Bout=xxxxxxxxx, Cout=000000110, Dout=xxxxxxxxx, Eout=xxxxxxxxx, Fout=xxxxxxxxx, Gout=xxxxxxxxx, Hout=xxxxxxxxx
+
+arrival order:
+D,A,B,E,G,F,H

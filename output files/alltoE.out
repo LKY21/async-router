@@ -1,0 +1,13 @@
+//all to E
+# Aout=xxxxxxxxx, Bout=xxxxxxxxx, Cout=xxxxxxxxx, Dout=xxxxxxxxx, Eout=xxxxxxxxx, Fout=xxxxxxxxx, Gout=xxxxxxxxx, Hout=xxxxxxxxx
+# Aout=xxxxxxxxx, Bout=xxxxxxxxx, Cout=xxxxxxxxx, Dout=xxxxxxxxx, Eout=000000100, Fout=xxxxxxxxx, Gout=xxxxxxxxx, Hout=xxxxxxxxx
+# Aout=xxxxxxxxx, Bout=xxxxxxxxx, Cout=xxxxxxxxx, Dout=xxxxxxxxx, Eout=000000101, Fout=xxxxxxxxx, Gout=xxxxxxxxx, Hout=xxxxxxxxx
+# Aout=xxxxxxxxx, Bout=xxxxxxxxx, Cout=xxxxxxxxx, Dout=xxxxxxxxx, Eout=000000110, Fout=xxxxxxxxx, Gout=xxxxxxxxx, Hout=xxxxxxxxx
+# Aout=xxxxxxxxx, Bout=xxxxxxxxx, Cout=xxxxxxxxx, Dout=xxxxxxxxx, Eout=000000000, Fout=xxxxxxxxx, Gout=xxxxxxxxx, Hout=xxxxxxxxx
+# Aout=xxxxxxxxx, Bout=xxxxxxxxx, Cout=xxxxxxxxx, Dout=xxxxxxxxx, Eout=000000010, Fout=xxxxxxxxx, Gout=xxxxxxxxx, Hout=xxxxxxxxx
+# Aout=xxxxxxxxx, Bout=xxxxxxxxx, Cout=xxxxxxxxx, Dout=xxxxxxxxx, Eout=000000001, Fout=xxxxxxxxx, Gout=xxxxxxxxx, Hout=xxxxxxxxx
+# Aout=xxxxxxxxx, Bout=xxxxxxxxx, Cout=xxxxxxxxx, Dout=xxxxxxxxx, Eout=000000011, Fout=xxxxxxxxx, Gout=xxxxxxxxx, Hout=xxxxxxxxx
+
+arrival order:
+
+F,G,H,A,C,B,D
